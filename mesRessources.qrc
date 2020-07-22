@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="bleu">emplbleu.png</file>
+        <file alias="bleuSel">emplbleuok.png</file>
+        <file alias="rouge">emplrouge.png</file>
+        <file alias="rougeSel">emplrougeOk.png</file>
+        <file alias="vide">emplVide.png</file>
+    </qresource>
+</RCC>
